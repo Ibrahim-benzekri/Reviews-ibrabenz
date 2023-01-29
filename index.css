@@ -1,0 +1,77 @@
+#container{
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+#cherta{
+    margin-top: -50px;
+    margin-left: 10px;
+    color: skyblue;
+}
+
+#head{
+    color: black;
+    font-size: 20px;
+    
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+#txt{
+    letter-spacing: 2px;
+}
+
+#ibrapic{
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 100px;
+    border-color: skyblue;
+    margin-top: 10px;
+}
+
+#reviewsBox{
+    width: 600px;
+    height: 400px;
+    box-shadow: 10px 10px 10px 10px lightgray;
+    border-radius: 5px;
+    background-color: white;
+    box-shadow: 500px;
+}
+
+#name{
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+}
+#profession{
+    font-size: 17px;
+    color: skyblue;
+    margin-top: -10px;
+    font-weight:bold;
+}
+
+#paragraph{
+    font-size: 17px;
+    font-weight: 500;
+    color: rgb(30, 30, 31);
+}
+
+.bt{
+    font-size: 25px;
+    letter-spacing: 15px;
+    font-weight: 800;
+    color: skyblue;
+    cursor: pointer;
+    
+}
+
+#surprise{
+    font-size: 20px;
+    border-color: skyblue;
+    color: skyblue;
+    background-color:aliceblue;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 7px;
+}
